@@ -2,7 +2,7 @@
 
 Pancakes are delicious! Let's learn how to make them.
 
-##ingredients
+## INGREDIENTS
 
 - Eggs
 - Flour
@@ -10,11 +10,13 @@ Pancakes are delicious! Let's learn how to make them.
 - Wat zout
 - & dingen waar je van houdt
 - Boter
+- Nutella 
 
 Gooi ze weg:
 
 - Buy pancakes from the store.
-- verwarm ze 
+- erwarm ze 
 - Done.
 
 voeg veel kaas toe
+en nutella
